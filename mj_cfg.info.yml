@@ -10,8 +10,10 @@ dependencies:
   - editor_file
   - filter
   - language
+  - layout_builder
   - media
   - node
+  - pathauto
   - redirect_after_login
   - system
   - taxonomy
