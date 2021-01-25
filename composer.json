@@ -1,0 +1,7 @@
+{
+  "name": "ebremner17/mj_cfg",
+  "description": "Common controller for Montgomery James sites.",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/ebremner17/mj_cfg",
+  "keywords": ["Drupal"]
+}
